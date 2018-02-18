@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Floating Point Numbers\bin\Debug\Practise Floating Point Numbers.exe.config
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Floating Point Numbers\bin\Debug\Practise Floating Point Numbers.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Floating Point Numbers\bin\Debug\Practise Floating Point Numbers.pdb
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Floating Point Numbers\obj\Debug\Practise Floating Point Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Floating Point Numbers\obj\Debug\Practise Floating Point Numbers.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Floating Point Numbers\obj\Debug\Practise Floating Point Numbers.pdb

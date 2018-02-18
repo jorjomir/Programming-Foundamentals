@@ -1,0 +1,9 @@
+     List<T> holds a list of elements (like array, but extendable)
+     Provides operations to add / insert / remove / find elements:
+-Add(element) – adds an element to the List<T>
+-Count – number of elements in the List<T>
+-Remove(element) – removes an element (returns true / false)
+-RemoveAt(index) – removes element at index
+-Insert(index, element) – inserts an element to given position 
+-Contains(element) – determines whether an element is in the list
+-Sort() – sorts the array in ascending order 

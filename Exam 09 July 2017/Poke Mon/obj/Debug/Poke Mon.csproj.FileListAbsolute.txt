@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Poke Mon\bin\Debug\Poke Mon.exe.config
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Poke Mon\bin\Debug\Poke Mon.exe
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Poke Mon\bin\Debug\Poke Mon.pdb
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Poke Mon\obj\Debug\Poke Mon.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Poke Mon\obj\Debug\Poke Mon.exe
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Poke Mon\obj\Debug\Poke Mon.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Word in Plural\bin\Debug\Word in Plural.exe.config
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Word in Plural\bin\Debug\Word in Plural.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Word in Plural\bin\Debug\Word in Plural.pdb
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Word in Plural\obj\Debug\Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Word in Plural\obj\Debug\Word in Plural.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Word in Plural\obj\Debug\Word in Plural.pdb

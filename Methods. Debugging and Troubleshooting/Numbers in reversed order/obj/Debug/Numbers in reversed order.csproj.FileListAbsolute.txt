@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Numbers in reversed order\bin\Debug\Numbers in reversed order.exe.config
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Numbers in reversed order\bin\Debug\Numbers in reversed order.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Numbers in reversed order\bin\Debug\Numbers in reversed order.pdb
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Numbers in reversed order\obj\Debug\Numbers in reversed order.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Numbers in reversed order\obj\Debug\Numbers in reversed order.pdb

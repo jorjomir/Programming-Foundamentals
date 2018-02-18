@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\English name of the Last Digit\bin\Debug\English name of the Last Digit.exe.config
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\English name of the Last Digit\bin\Debug\English name of the Last Digit.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\English name of the Last Digit\bin\Debug\English name of the Last Digit.pdb
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\English name of the Last Digit\obj\Debug\English name of the Last Digit.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\English name of the Last Digit\obj\Debug\English name of the Last Digit.pdb

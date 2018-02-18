@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Different integers size\bin\Debug\Different integers size.exe.config
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Different integers size\bin\Debug\Different integers size.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Different integers size\bin\Debug\Different integers size.pdb
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Different integers size\obj\Debug\Different integers size.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Different integers size\obj\Debug\Different integers size.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Different integers size\obj\Debug\Different integers size.pdb

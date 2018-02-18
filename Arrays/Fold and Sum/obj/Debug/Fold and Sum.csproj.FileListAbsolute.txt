@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Arrays\Fold and Sum\bin\Debug\Fold and Sum.exe.config
+C:\Users\Georgi\Desktop\C#\Arrays\Fold and Sum\bin\Debug\Fold and Sum.exe
+C:\Users\Georgi\Desktop\C#\Arrays\Fold and Sum\bin\Debug\Fold and Sum.pdb
+C:\Users\Georgi\Desktop\C#\Arrays\Fold and Sum\obj\Debug\Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Arrays\Fold and Sum\obj\Debug\Fold and Sum.exe
+C:\Users\Georgi\Desktop\C#\Arrays\Fold and Sum\obj\Debug\Fold and Sum.pdb

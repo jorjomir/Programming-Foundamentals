@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\A Miner Task\bin\Debug\A Miner Task.exe.config
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\A Miner Task\bin\Debug\A Miner Task.exe
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\A Miner Task\bin\Debug\A Miner Task.pdb
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\A Miner Task\obj\Debug\A Miner Task.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\A Miner Task\obj\Debug\A Miner Task.exe
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\A Miner Task\obj\Debug\A Miner Task.pdb

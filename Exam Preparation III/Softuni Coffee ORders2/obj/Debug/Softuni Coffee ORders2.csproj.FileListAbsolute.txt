@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Softuni Coffee ORders2\bin\Debug\Softuni Coffee ORders2.exe.config
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Softuni Coffee ORders2\bin\Debug\Softuni Coffee ORders2.exe
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Softuni Coffee ORders2\bin\Debug\Softuni Coffee ORders2.pdb
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Softuni Coffee ORders2\obj\Debug\Softuni Coffee ORders2.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Softuni Coffee ORders2\obj\Debug\Softuni Coffee ORders2.exe
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Softuni Coffee ORders2\obj\Debug\Softuni Coffee ORders2.pdb

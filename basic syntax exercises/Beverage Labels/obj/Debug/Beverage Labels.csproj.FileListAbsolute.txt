@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Beverage Labels\bin\Debug\Beverage Labels.exe
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Beverage Labels\bin\Debug\Beverage Labels.pdb
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Beverage Labels\obj\Debug\Beverage Labels.exe
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Beverage Labels\obj\Debug\Beverage Labels.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Lists\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe.config
+C:\Users\Georgi\Desktop\C#\Lists\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe
+C:\Users\Georgi\Desktop\C#\Lists\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.pdb
+C:\Users\Georgi\Desktop\C#\Lists\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Lists\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.exe
+C:\Users\Georgi\Desktop\C#\Lists\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.pdb

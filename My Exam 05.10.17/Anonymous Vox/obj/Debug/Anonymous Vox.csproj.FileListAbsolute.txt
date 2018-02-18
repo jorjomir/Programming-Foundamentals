@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Vox\bin\Debug\Anonymous Vox.exe.config
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Vox\bin\Debug\Anonymous Vox.exe
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Vox\bin\Debug\Anonymous Vox.pdb
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Vox\obj\Debug\Anonymous Vox.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Vox\obj\Debug\Anonymous Vox.exe
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Vox\obj\Debug\Anonymous Vox.pdb

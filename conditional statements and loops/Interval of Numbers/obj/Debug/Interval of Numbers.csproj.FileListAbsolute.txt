@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Interval of Numbers\bin\Debug\Interval of Numbers.exe.config
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Interval of Numbers\bin\Debug\Interval of Numbers.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Interval of Numbers\bin\Debug\Interval of Numbers.pdb
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Interval of Numbers\obj\Debug\Interval of Numbers.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Interval of Numbers\obj\Debug\Interval of Numbers.pdb
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Interval of Numbers\obj\Debug\Interval of Numbers.csprojResolveAssemblyReference.cache

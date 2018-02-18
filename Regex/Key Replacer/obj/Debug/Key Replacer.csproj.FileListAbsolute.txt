@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Regex\Key Replacer\bin\Debug\Key Replacer.exe.config
+C:\Users\Georgi\Desktop\C#\Regex\Key Replacer\bin\Debug\Key Replacer.exe
+C:\Users\Georgi\Desktop\C#\Regex\Key Replacer\bin\Debug\Key Replacer.pdb
+C:\Users\Georgi\Desktop\C#\Regex\Key Replacer\obj\Debug\Key Replacer.exe
+C:\Users\Georgi\Desktop\C#\Regex\Key Replacer\obj\Debug\Key Replacer.pdb

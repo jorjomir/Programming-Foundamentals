@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Cube Properties\bin\Debug\Cube Properties.exe.config
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Cube Properties\bin\Debug\Cube Properties.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Cube Properties\bin\Debug\Cube Properties.pdb
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Cube Properties\obj\Debug\Cube Properties.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Cube Properties\obj\Debug\Cube Properties.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Cube Properties\obj\Debug\Cube Properties.pdb

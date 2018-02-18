@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Rage Quit\bin\Debug\Rage Quit.exe.config
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Rage Quit\bin\Debug\Rage Quit.exe
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Rage Quit\bin\Debug\Rage Quit.pdb
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Rage Quit\obj\Debug\Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Rage Quit\obj\Debug\Rage Quit.exe
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Rage Quit\obj\Debug\Rage Quit.pdb

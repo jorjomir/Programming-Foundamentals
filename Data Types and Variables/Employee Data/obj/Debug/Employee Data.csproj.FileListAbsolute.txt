@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Employee Data\obj\Debug\Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Employee Data\obj\Debug\Employee Data.pdb

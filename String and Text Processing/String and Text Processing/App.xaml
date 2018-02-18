@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="String_and_Text_Processing.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:String_and_Text_Processing"
+    RequestedTheme="Light">
+
+</Application>

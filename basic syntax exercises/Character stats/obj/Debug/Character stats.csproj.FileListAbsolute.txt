@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Character stats\bin\Debug\Character stats.exe.config
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Character stats\bin\Debug\Character stats.exe
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Character stats\bin\Debug\Character stats.pdb
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Character stats\obj\Debug\Character stats.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Character stats\obj\Debug\Character stats.exe
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Character stats\obj\Debug\Character stats.pdb

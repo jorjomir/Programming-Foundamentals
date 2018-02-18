@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\test\bin\Debug\test.exe.config
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\test\bin\Debug\test.exe
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\test\bin\Debug\test.pdb
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\test\obj\Debug\test.exe
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\test\obj\Debug\test.pdb

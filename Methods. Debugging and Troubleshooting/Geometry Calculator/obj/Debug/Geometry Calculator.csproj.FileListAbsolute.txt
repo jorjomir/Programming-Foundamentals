@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Geometry Calculator\bin\Debug\Geometry Calculator.exe.config
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Geometry Calculator\bin\Debug\Geometry Calculator.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Geometry Calculator\bin\Debug\Geometry Calculator.pdb
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Geometry Calculator\obj\Debug\Geometry Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Geometry Calculator\obj\Debug\Geometry Calculator.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Geometry Calculator\obj\Debug\Geometry Calculator.pdb

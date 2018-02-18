@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\restaurant discount\bin\Debug\restaurant discount.exe.config
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\restaurant discount\bin\Debug\restaurant discount.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\restaurant discount\bin\Debug\restaurant discount.pdb
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\restaurant discount\obj\Debug\restaurant discount.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\restaurant discount\obj\Debug\restaurant discount.pdb

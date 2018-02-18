@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Choose a drink\bin\Debug\Choose a drink.exe.config
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Choose a drink\bin\Debug\Choose a drink.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Choose a drink\bin\Debug\Choose a drink.pdb
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Choose a drink\obj\Debug\Choose a drink.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Choose a drink\obj\Debug\Choose a drink.pdb
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Choose a drink\obj\Debug\Choose a drink.csprojResolveAssemblyReference.cache

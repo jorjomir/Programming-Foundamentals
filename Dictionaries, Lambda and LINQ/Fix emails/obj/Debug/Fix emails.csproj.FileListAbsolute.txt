@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Fix emails\bin\Debug\Fix emails.exe.config
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Fix emails\bin\Debug\Fix emails.exe
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Fix emails\bin\Debug\Fix emails.pdb
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Fix emails\obj\Debug\Fix emails.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Fix emails\obj\Debug\Fix emails.exe
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Fix emails\obj\Debug\Fix emails.pdb

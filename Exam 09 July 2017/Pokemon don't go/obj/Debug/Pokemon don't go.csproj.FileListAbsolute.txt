@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon don't go\bin\Debug\Pokemon don't go.exe.config
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon don't go\bin\Debug\Pokemon don't go.exe
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon don't go\bin\Debug\Pokemon don't go.pdb
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon don't go\obj\Debug\Pokemon don't go.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon don't go\obj\Debug\Pokemon don't go.exe
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon don't go\obj\Debug\Pokemon don't go.pdb

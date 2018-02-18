@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Command interpreter\bin\Debug\Command interpreter.exe.config
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Command interpreter\bin\Debug\Command interpreter.exe
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Command interpreter\bin\Debug\Command interpreter.pdb
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Command interpreter\obj\Debug\Command interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Command interpreter\obj\Debug\Command interpreter.exe
+C:\Users\Georgi\Desktop\C#\Exam Preparation III\Command interpreter\obj\Debug\Command interpreter.pdb

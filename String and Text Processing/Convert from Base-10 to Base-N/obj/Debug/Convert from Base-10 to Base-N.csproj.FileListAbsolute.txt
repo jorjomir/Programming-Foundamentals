@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\String and Text Processing\Convert from Base-10 to Base-N\bin\Debug\Convert from Base-10 to Base-N.exe.config
+C:\Users\Georgi\Desktop\C#\String and Text Processing\Convert from Base-10 to Base-N\bin\Debug\Convert from Base-10 to Base-N.exe
+C:\Users\Georgi\Desktop\C#\String and Text Processing\Convert from Base-10 to Base-N\bin\Debug\Convert from Base-10 to Base-N.pdb
+C:\Users\Georgi\Desktop\C#\String and Text Processing\Convert from Base-10 to Base-N\obj\Debug\Convert from Base-10 to Base-N.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\String and Text Processing\Convert from Base-10 to Base-N\obj\Debug\Convert from Base-10 to Base-N.exe
+C:\Users\Georgi\Desktop\C#\String and Text Processing\Convert from Base-10 to Base-N\obj\Debug\Convert from Base-10 to Base-N.pdb

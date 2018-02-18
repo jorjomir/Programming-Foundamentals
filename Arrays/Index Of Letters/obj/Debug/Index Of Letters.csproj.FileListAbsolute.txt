@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Arrays\Index Of Letters\bin\Debug\Index Of Letters.exe.config
+C:\Users\Georgi\Desktop\C#\Arrays\Index Of Letters\bin\Debug\Index Of Letters.exe
+C:\Users\Georgi\Desktop\C#\Arrays\Index Of Letters\bin\Debug\Index Of Letters.pdb
+C:\Users\Georgi\Desktop\C#\Arrays\Index Of Letters\obj\Debug\Index Of Letters.exe
+C:\Users\Georgi\Desktop\C#\Arrays\Index Of Letters\obj\Debug\Index Of Letters.pdb
+C:\Users\Georgi\Desktop\C#\Arrays\Index Of Letters\obj\Debug\Index Of Letters.csprojResolveAssemblyReference.cache

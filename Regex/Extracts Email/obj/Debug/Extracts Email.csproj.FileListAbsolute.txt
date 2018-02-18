@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Regex\Extracts Email\bin\Debug\Extracts Email.exe.config
+C:\Users\Georgi\Desktop\C#\Regex\Extracts Email\bin\Debug\Extracts Email.exe
+C:\Users\Georgi\Desktop\C#\Regex\Extracts Email\bin\Debug\Extracts Email.pdb
+C:\Users\Georgi\Desktop\C#\Regex\Extracts Email\obj\Debug\Extracts Email.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Regex\Extracts Email\obj\Debug\Extracts Email.exe
+C:\Users\Georgi\Desktop\C#\Regex\Extracts Email\obj\Debug\Extracts Email.pdb

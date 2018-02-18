@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Lists\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe.config
+C:\Users\Georgi\Desktop\C#\Lists\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe
+C:\Users\Georgi\Desktop\C#\Lists\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.pdb
+C:\Users\Georgi\Desktop\C#\Lists\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.exe
+C:\Users\Georgi\Desktop\C#\Lists\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.pdb
+C:\Users\Georgi\Desktop\C#\Lists\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.csprojResolveAssemblyReference.cache

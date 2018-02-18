@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\hotel\obj\Debug\hotel.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\hotel\bin\Debug\hotel.exe.config
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\hotel\bin\Debug\hotel.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\hotel\bin\Debug\hotel.pdb
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\hotel\obj\Debug\hotel.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\hotel\obj\Debug\hotel.pdb

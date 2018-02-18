@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Regex\Extract Sentences by keyword\bin\Debug\Extract Sentences by keyword.exe.config
+C:\Users\Georgi\Desktop\C#\Regex\Extract Sentences by keyword\bin\Debug\Extract Sentences by keyword.exe
+C:\Users\Georgi\Desktop\C#\Regex\Extract Sentences by keyword\bin\Debug\Extract Sentences by keyword.pdb
+C:\Users\Georgi\Desktop\C#\Regex\Extract Sentences by keyword\obj\Debug\Extract Sentences by keyword.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Regex\Extract Sentences by keyword\obj\Debug\Extract Sentences by keyword.exe
+C:\Users\Georgi\Desktop\C#\Regex\Extract Sentences by keyword\obj\Debug\Extract Sentences by keyword.pdb

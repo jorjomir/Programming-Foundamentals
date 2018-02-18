@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet comm\bin\Debug\Hornet comm.exe.config
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet comm\bin\Debug\Hornet comm.exe
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet comm\bin\Debug\Hornet comm.pdb
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet comm\obj\Debug\Hornet comm.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet comm\obj\Debug\Hornet comm.exe
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet comm\obj\Debug\Hornet comm.pdb

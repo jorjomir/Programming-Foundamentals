@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Back in 30 min\obj\Debug\Back in 30 min.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Back in 30 min\bin\Debug\Back in 30 min.exe.config
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Back in 30 min\bin\Debug\Back in 30 min.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Back in 30 min\bin\Debug\Back in 30 min.pdb
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Back in 30 min\obj\Debug\Back in 30 min.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Back in 30 min\obj\Debug\Back in 30 min.pdb

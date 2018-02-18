@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Count Working Days2\bin\Debug\Count Working Days2.exe.config
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Count Working Days2\bin\Debug\Count Working Days2.exe
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Count Working Days2\bin\Debug\Count Working Days2.pdb
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Count Working Days2\obj\Debug\Count Working Days2.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Count Working Days2\obj\Debug\Count Working Days2.exe
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Count Working Days2\obj\Debug\Count Working Days2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Lists\Search for a number\bin\Debug\Search for a number.exe.config
+C:\Users\Georgi\Desktop\C#\Lists\Search for a number\bin\Debug\Search for a number.exe
+C:\Users\Georgi\Desktop\C#\Lists\Search for a number\bin\Debug\Search for a number.pdb
+C:\Users\Georgi\Desktop\C#\Lists\Search for a number\obj\Debug\Search for a number.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Lists\Search for a number\obj\Debug\Search for a number.exe
+C:\Users\Georgi\Desktop\C#\Lists\Search for a number\obj\Debug\Search for a number.pdb

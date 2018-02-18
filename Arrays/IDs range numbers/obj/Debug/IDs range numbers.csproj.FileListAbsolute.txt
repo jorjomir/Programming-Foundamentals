@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Arrays\IDs range numbers\bin\Debug\IDs range numbers.exe.config
+C:\Users\Georgi\Desktop\C#\Arrays\IDs range numbers\bin\Debug\IDs range numbers.exe
+C:\Users\Georgi\Desktop\C#\Arrays\IDs range numbers\bin\Debug\IDs range numbers.pdb
+C:\Users\Georgi\Desktop\C#\Arrays\IDs range numbers\obj\Debug\IDs range numbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Arrays\IDs range numbers\obj\Debug\IDs range numbers.exe
+C:\Users\Georgi\Desktop\C#\Arrays\IDs range numbers\obj\Debug\IDs range numbers.pdb

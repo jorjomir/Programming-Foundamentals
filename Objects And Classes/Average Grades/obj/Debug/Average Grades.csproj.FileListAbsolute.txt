@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Average Grades\bin\Debug\Average Grades.exe.config
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Average Grades\bin\Debug\Average Grades.exe
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Average Grades\bin\Debug\Average Grades.pdb
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Average Grades\obj\Debug\Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Average Grades\obj\Debug\Average Grades.exe
+C:\Users\Georgi\Desktop\C#\Objects And Classes\Average Grades\obj\Debug\Average Grades.pdb

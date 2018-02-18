@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\debit card number\bin\Debug\debit card number.exe.config
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\debit card number\bin\Debug\debit card number.exe
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\debit card number\bin\Debug\debit card number.pdb
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\debit card number\obj\Debug\debit card number.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\debit card number\obj\Debug\debit card number.exe
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\debit card number\obj\Debug\debit card number.pdb

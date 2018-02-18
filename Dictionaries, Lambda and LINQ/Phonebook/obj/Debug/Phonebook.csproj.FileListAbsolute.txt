@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\Phonebook\obj\Debug\Phonebook.pdb

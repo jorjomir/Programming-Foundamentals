@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Prime Checker\obj\Debug\Prime Checker.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Prime Checker\bin\Debug\Prime Checker.exe.config
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Prime Checker\bin\Debug\Prime Checker.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Prime Checker\bin\Debug\Prime Checker.pdb
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Prime Checker\obj\Debug\Prime Checker.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Prime Checker\obj\Debug\Prime Checker.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Max method\bin\Debug\Max method.exe.config
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Max method\bin\Debug\Max method.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Max method\bin\Debug\Max method.pdb
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Max method\obj\Debug\Max method.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Max method\obj\Debug\Max method.pdb

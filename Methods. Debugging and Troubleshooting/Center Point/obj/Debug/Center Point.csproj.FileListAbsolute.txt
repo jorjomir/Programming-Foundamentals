@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Center Point\bin\Debug\Center Point.exe.config
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Center Point\bin\Debug\Center Point.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Center Point\bin\Debug\Center Point.pdb
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Center Point\obj\Debug\Center Point.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Center Point\obj\Debug\Center Point.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Center Point\obj\Debug\Center Point.pdb

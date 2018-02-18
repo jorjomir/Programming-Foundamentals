@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Rectangle Area\bin\Debug\Rectangle Area.exe
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Rectangle Area\bin\Debug\Rectangle Area.pdb
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Rectangle Area\obj\Debug\Rectangle Area.exe
+C:\Users\Georgi\Desktop\C#\basic syntax exercises\Rectangle Area\obj\Debug\Rectangle Area.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Characters and Strings\bin\Debug\Practise Characters and Strings.exe.config
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Characters and Strings\bin\Debug\Practise Characters and Strings.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Characters and Strings\bin\Debug\Practise Characters and Strings.pdb
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Characters and Strings\obj\Debug\Practise Characters and Strings.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Characters and Strings\obj\Debug\Practise Characters and Strings.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Practise Characters and Strings\obj\Debug\Practise Characters and Strings.pdb

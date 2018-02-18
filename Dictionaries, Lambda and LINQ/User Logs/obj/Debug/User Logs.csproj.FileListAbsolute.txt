@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\User Logs\bin\Debug\User Logs.exe.config
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\User Logs\bin\Debug\User Logs.exe
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\User Logs\bin\Debug\User Logs.pdb
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\User Logs\obj\Debug\User Logs.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\User Logs\obj\Debug\User Logs.exe
+C:\Users\Georgi\Desktop\C#\Dictionaries, Lambda and LINQ\User Logs\obj\Debug\User Logs.pdb

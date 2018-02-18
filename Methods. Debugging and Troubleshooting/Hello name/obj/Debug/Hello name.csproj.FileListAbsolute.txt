@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Hello name\obj\Debug\Hello name.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Hello name\bin\Debug\Hello name.exe.config
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Hello name\bin\Debug\Hello name.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Hello name\bin\Debug\Hello name.pdb
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Hello name\obj\Debug\Hello name.exe
+C:\Users\Georgi\Desktop\C#\Methods. Debugging and Troubleshooting\Hello name\obj\Debug\Hello name.pdb

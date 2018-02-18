@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Regex\Weather\bin\Debug\Weather.exe.config
+C:\Users\Georgi\Desktop\C#\Regex\Weather\bin\Debug\Weather.exe
+C:\Users\Georgi\Desktop\C#\Regex\Weather\bin\Debug\Weather.pdb
+C:\Users\Georgi\Desktop\C#\Regex\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Regex\Weather\obj\Debug\Weather.exe
+C:\Users\Georgi\Desktop\C#\Regex\Weather\obj\Debug\Weather.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Arrays\Max Sequence of Increasing number\bin\Debug\Max Sequence of Increasing number.exe.config
+C:\Users\Georgi\Desktop\C#\Arrays\Max Sequence of Increasing number\bin\Debug\Max Sequence of Increasing number.exe
+C:\Users\Georgi\Desktop\C#\Arrays\Max Sequence of Increasing number\bin\Debug\Max Sequence of Increasing number.pdb
+C:\Users\Georgi\Desktop\C#\Arrays\Max Sequence of Increasing number\obj\Debug\Max Sequence of Increasing number.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Arrays\Max Sequence of Increasing number\obj\Debug\Max Sequence of Increasing number.exe
+C:\Users\Georgi\Desktop\C#\Arrays\Max Sequence of Increasing number\obj\Debug\Max Sequence of Increasing number.pdb

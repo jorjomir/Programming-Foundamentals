@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet Wings\bin\Debug\Hornet Wings.exe.config
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet Wings\bin\Debug\Hornet Wings.exe
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet Wings\bin\Debug\Hornet Wings.pdb
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet Wings\obj\Debug\Hornet Wings.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet Wings\obj\Debug\Hornet Wings.exe
+C:\Users\Georgi\Desktop\C#\Exam 26 February 2017\Hornet Wings\obj\Debug\Hornet Wings.pdb

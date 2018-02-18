@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Fast Prime Checker\bin\Debug\Fast Prime Checker.exe.config
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Fast Prime Checker\bin\Debug\Fast Prime Checker.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Fast Prime Checker\bin\Debug\Fast Prime Checker.pdb
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Fast Prime Checker\obj\Debug\Fast Prime Checker.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Fast Prime Checker\obj\Debug\Fast Prime Checker.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Fast Prime Checker\obj\Debug\Fast Prime Checker.pdb

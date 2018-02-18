@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Rectangle Properties\bin\Debug\Rectangle Properties.exe.config
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Rectangle Properties\bin\Debug\Rectangle Properties.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Rectangle Properties\bin\Debug\Rectangle Properties.pdb
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Rectangle Properties\obj\Debug\Rectangle Properties.exe
+C:\Users\Georgi\Desktop\C#\Data Types and Variables\Rectangle Properties\obj\Debug\Rectangle Properties.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Couont the integers\bin\Debug\Couont the integers.exe.config
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Couont the integers\bin\Debug\Couont the integers.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Couont the integers\bin\Debug\Couont the integers.pdb
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Couont the integers\obj\Debug\Couont the integers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Couont the integers\obj\Debug\Couont the integers.exe
+C:\Users\Georgi\Desktop\C#\conditional statements and loops\Couont the integers\obj\Debug\Couont the integers.pdb

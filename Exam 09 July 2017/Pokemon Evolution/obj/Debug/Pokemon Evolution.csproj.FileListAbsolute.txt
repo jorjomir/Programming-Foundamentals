@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon Evolution\bin\Debug\Pokemon Evolution.exe.config
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon Evolution\bin\Debug\Pokemon Evolution.exe
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon Evolution\bin\Debug\Pokemon Evolution.pdb
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon Evolution\obj\Debug\Pokemon Evolution.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon Evolution\obj\Debug\Pokemon Evolution.exe
+C:\Users\Georgi\Desktop\C#\Exam 09 July 2017\Pokemon Evolution\obj\Debug\Pokemon Evolution.pdb

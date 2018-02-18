@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Cache\bin\Debug\Anonymous Cache.exe.config
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Cache\bin\Debug\Anonymous Cache.exe
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Cache\bin\Debug\Anonymous Cache.pdb
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Cache\obj\Debug\Anonymous Cache.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Cache\obj\Debug\Anonymous Cache.exe
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Cache\obj\Debug\Anonymous Cache.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Downsite\bin\Debug\Anonymous Downsite.exe.config
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Downsite\bin\Debug\Anonymous Downsite.exe
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Downsite\bin\Debug\Anonymous Downsite.pdb
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Downsite\obj\Debug\Anonymous Downsite.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Downsite\obj\Debug\Anonymous Downsite.exe
+C:\Users\Georgi\Desktop\C#\My Exam 05.10.17\Anonymous Downsite\obj\Debug\Anonymous Downsite.pdb
